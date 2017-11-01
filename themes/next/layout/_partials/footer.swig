@@ -21,18 +21,6 @@
     #}{{ totalcount(site, '0,0.0a') }}{#
   #}</span>
   {% endif %}
-  
-  <span class="post-meta-divider">|</span>
-  <div class="powered-by">
-    <i class="fa fa-user-md"></i><span id="busuanzi_container_site_uv">
-      <span id="busuanzi_value_site_uv"></span>
-    </span>
-    <i class="fa fa-eye"></i>
-    <span id="busuanzi_container_site_uv">
-      <span id="busuanzi_value_site_pv"></span>
-    </span>
-  </div>
-  
 </div>
 
 {% if theme.footer.powered %}
