@@ -9,6 +9,8 @@ Prerequsite:
 2. Hexo installation
 3. SSH access to github
 
+<br>
+-----------------------------
 
 1. Fork the repo
 2. Clone the repo to your local PC
