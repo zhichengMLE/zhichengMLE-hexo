@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: zhichengML
+title: zhichengMLE
 subtitle:
 description: “We must learn to tailor our concepts to fit reality, instead of trying to stuff reality into our concepts.” — Victor Daniels
-author: zhichengML
+author: zhichengMLE
 language: en
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zhichengml.github.io
+url: https://zhichengMLE.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,7 +69,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhichengML/zhichengML.github.io.git
+  repo: git@github.com:zhichengMLE/zhichengMLE.github.io.git
   branch: master
   
 feed:
