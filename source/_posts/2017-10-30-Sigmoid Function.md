@@ -5,6 +5,7 @@ categories: [Machine-Learning-Mathematics]
 tags: [Machine-Learning, Mathematics]
 mathjax: true
 copyright: true
+top: 100
 ---
 
 # Sigmoid Function
