@@ -1,9 +1,10 @@
 ---
 title: 线性模型性能分析--混淆矩阵(Confusion Matrix)
-date: 2017-12-25 12:23:19
+date: 2017-11-01 12:23:19
 categories: [Machine-Learning-Mathematics]
 tags: [Machine-Learning, Mathematics]
 mathjax: true
+copyright: true
 ---
 
 

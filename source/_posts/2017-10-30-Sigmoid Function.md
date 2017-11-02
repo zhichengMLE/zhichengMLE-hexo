@@ -1,9 +1,10 @@
 ---
 title: Sigmoid Function
-date: 2017-12-15 15:23:19
+date: 2017-10-30 15:23:19
 categories: [Machine-Learning-Mathematics]
 tags: [Machine-Learning, Mathematics]
 mathjax: true
+copyright: true
 ---
 
 # Sigmoid Function

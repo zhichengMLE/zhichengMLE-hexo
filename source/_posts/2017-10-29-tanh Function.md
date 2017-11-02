@@ -1,3 +1,12 @@
+---
+title: tanh Function
+date: 2017-10-29 11:23:19
+categories: [Machine-Learning-Mathematics]
+tags: [Machine-Learning, Mathematics]
+mathjax: true
+copyright: true
+---
+
 # tanh Function
 
 
@@ -23,11 +32,11 @@ $$
 See the figure of tanh and sigmoid below.
 ![tanh](https://raw.githubusercontent.com/JasonDean-1/MarkdownPhoto/c0f683d49f1d3f2d5383d25566d4f490c552645d/__Blog/__Personal%20Understanding/Mathematics/images/tanh.png)
 <center>tanh Function</center>
-</br>
+<br>
 
 ![sigmoid](https://raw.githubusercontent.com/JasonDean-1/MarkdownPhoto/2f13c175c89fc02793cef19d6cb2223d548479d3/__Blog/__Personal%20Understanding/Mathematics/images/sigmoid.png)
 <center>sigmoid Function</center>
-</br>
+<br>
 
 
 
@@ -57,3 +66,8 @@ Output figure
 
 # Relative
 Sigmoid Function
+
+
+<br>
+<br>
+------------------------------------------

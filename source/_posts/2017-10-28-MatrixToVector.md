@@ -1,9 +1,10 @@
 ---
 title: Matrix and Vector Transformation
-date: 2017-11-22 13:23:19
+date: 2017-10-28 13:23:19
 categories: [Machine-Learning-Mathematics]
 tags: [Machine-Learning, Mathematics]
 mathjax: false
+copyright: true
 ---
 
 
