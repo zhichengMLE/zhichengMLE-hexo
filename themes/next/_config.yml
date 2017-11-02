@@ -118,7 +118,7 @@ social:
   GitHub: https://github.com/zhichengML || github
   E-Mail: mailto:jason--ding@outlook.com || envelope
   Linkedin: http://www.linkedin.com/in/zhicheng-ding-a80595b3/ || linkedin
-  #Google: https://plus.google.com/yourname || google
+  Google: https://plus.google.com/jdjasonding || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
@@ -396,21 +396,23 @@ livere_uid: MTAyMC8zMTYzNi84MjAw
 # Warning: JiaThis does not support https.
 #jiathis:
   ##uid: Get this uid from http://www.jiathis.com/
-#add_this_id:
+add_this_id: ra-59fadb7b45993008
 
 # Share
 #duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: rzzVuOTIU7jiPfFE-TiS2qmMwMYzGfeY0Go7XkNmoQo
+
+baidu_site_verification: TCHa4Os0ZY
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-109130641-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
-#bing_site_verification:
+bing_site_verification: 38DC0B52AC1BE8086F0ADFA5A73BD6F2
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
