@@ -66,7 +66,7 @@ h'\left( x \right)
 &= \lim\limits_{\Delta x \rightarrow0} \frac{f\left( x + \Delta x \right) g\left( x \right) - f\left( x \right)g\left( x + \Delta x \right)}{\Delta x \cdot g\left( x \right)g\left( x + \Delta x \right)}\\
 &= \lim\limits_{\Delta x \rightarrow0} \frac{f\left( x + \Delta x \right) g\left( x \right) - f\left( x \right)g\left( x + \Delta x \right)}{\Delta x}  \cdot \frac{1}{g\left( x \right)g\left( x + \Delta x \right)}\\
 &= \left[\lim\limits_{\Delta x \rightarrow0} \frac{ f\left(x + \Delta x\right) -f\left( x \right)}{\Delta x} \cdot \lim\limits_{\Delta x \rightarrow0} g\left(x\right) - \lim\limits_{\Delta x \rightarrow0} f\left(x \right)  \cdot \lim\limits_{\Delta x \rightarrow0} \frac{ g\left(x + \Delta x\right) -g\left( x \right)}{\Delta x}\right] \cdot \frac{1}{g\left( x \right)^2}\\
-= \frac{f'\left( x \right)g\left( x \right) -f\left( x \right) g'\left( x \right)}{g\left( x \right)^2}
+&= \frac{f'\left( x \right)g\left( x \right) -f\left( x \right) g'\left( x \right)}{g\left( x \right)^2}
 \end{align}
 $$
 

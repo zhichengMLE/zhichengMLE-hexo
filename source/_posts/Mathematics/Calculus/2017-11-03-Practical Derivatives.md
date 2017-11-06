@@ -111,7 +111,7 @@ f'\left( x \right)
 &= \lim\limits_{\Delta x \rightarrow0} \frac{ f\left( x + \Delta x \right) - f \left( x \right)}{\Delta x} \\
 &= \lim\limits_{\Delta x \rightarrow0} \frac{ a^{x + \Delta x} - a^x}{\Delta x} \\
 &= \lim\limits_{\Delta x \rightarrow0} \frac{ a^x \left( a^{\Delta x} -1 \right)}{\Delta x} \\
-Introduce \quad
+introduce \quad
 & t = a^{\Delta x} - 1, then \quad a^{\Delta x} = t + 1, \quad \Delta x = \log_a\left( t+1 \right)\\
 equation  \quad
 &= \lim\limits_{t \rightarrow0} \frac{ a^x t}{\log_a(t+1)}\\
@@ -139,7 +139,7 @@ f'\left( x \right)
 &= \lim\limits_{\Delta x \rightarrow0} \frac{ \log_a(\frac{x + \Delta x}{x})}{\Delta x} \\
 &= \lim\limits_{\Delta x \rightarrow0}  \frac{1}{x}\frac{x }{\Delta x} \log_a \left(\frac{x + \Delta x}{x}\right) \\
 &= \lim\limits_{\Delta x \rightarrow0}  \frac{1}{x} \log_a \left( 1+ \frac{  \Delta x}{x} \right)^{\frac{x }{\Delta x}} \\
-Introduce \quad
+introduce \quad
 & t = \frac{  \Delta x}{x}\\
 equation  \quad
 &=\lim\limits_{\Delta x \rightarrow0}  \frac{1}{x} \log_a \left( 1+ t \right)^{\frac{1 }{t}} \\
