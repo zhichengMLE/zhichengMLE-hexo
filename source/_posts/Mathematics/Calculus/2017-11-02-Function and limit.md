@@ -43,7 +43,12 @@ For example, $f(x) = x + 1 \text( $x ∈ {\rm I\!R}$)$
 A limit is the function with a variable approach some value. Limits are essential to calculus (and mathematical analysis in general) and are used to define continuity, derivatives, and integrals.[2].
 
 ### 2) What is one-sided limit?
-See more at this blog @TODO
+
+In short, one-sided limit is the limition with one value approach from one side, and different will may have way different result of the formula because, the value is always bigger/small than the other value.
+
+When one-sided limits from both sides are equal to the same value, we could simply use two-sided limits to express. Whereas, the one-sided limits is not exactly the same, we have use one-sided limits.
+
+See more at this blog [What is one-sided limit](../2017-11-02-What is a one-sided limit/)
 
 ### 3) Some Rules of Limits
 
