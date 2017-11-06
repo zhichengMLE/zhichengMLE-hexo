@@ -1,3 +1,13 @@
+---
+title: Function and Limit
+date: 2017-11-02 08:23:19
+categories: [Machine-Learning-Mathematics]
+tags: [Machine-Learning, Mathematics, Calculus]
+mathjax: true
+copyright: true
+top: 100
+---
+
 # Function and Limit
 
 ## 1. Function
