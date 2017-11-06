@@ -76,3 +76,8 @@ $$
 [2] [Wikipedia-Product rule](https://en.wikipedia.org/wiki/Product_rule)
 
 [3] [Wikipedia-Quotient_rule](https://en.wikipedia.org/wiki/Quotient_rule)
+
+
+<br>
+<br>
+------------------------------------------

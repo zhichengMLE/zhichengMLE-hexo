@@ -33,11 +33,11 @@ $$
 See the figure of tanh and sigmoid below.
 ![tanh](https://raw.githubusercontent.com/JasonDean-1/MarkdownPhoto/c0f683d49f1d3f2d5383d25566d4f490c552645d/__Blog/__Personal%20Understanding/Mathematics/images/tanh.png)
 <center>tanh Function</center>
-<br>
+
 
 ![sigmoid](https://raw.githubusercontent.com/JasonDean-1/MarkdownPhoto/2f13c175c89fc02793cef19d6cb2223d548479d3/__Blog/__Personal%20Understanding/Mathematics/images/sigmoid.png)
 <center>sigmoid Function</center>
-<br>
+
 
 
 
@@ -66,7 +66,7 @@ Output figure
 
 
 # Relative
-Sigmoid Function
+[Sigmoid Function](https://zhichengmle.github.io/2017/10/30/Mathematics/2017-10-30-Sigmoid%20Function/)
 
 
 <br>

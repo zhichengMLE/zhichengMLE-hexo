@@ -148,3 +148,8 @@ equation  \quad
 &\therefore f'\left(\log_a x\right) = \frac{1}{x\ln a}
 \end{align}
 $$
+
+
+<br>
+<br>
+------------------------------------------

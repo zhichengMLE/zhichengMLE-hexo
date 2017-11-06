@@ -48,7 +48,7 @@ In short, one-sided limit is the limition with one value approach from one side,
 
 When one-sided limits from both sides are equal to the same value, we could simply use two-sided limits to express. Whereas, the one-sided limits is not exactly the same, we have use one-sided limits.
 
-See more at this blog [What is one-sided limit](../2017-11-02-What is a one-sided limit/)
+See more at this blog [What is one-sided limit](https://zhichengmle.github.io/2017/11/02/Mathematics/Calculus/2017-11-02-What%20is%20a%20one-sided%20limit/)
 
 ### 3) Some Rules of Limits
 
@@ -89,3 +89,8 @@ There are several detail for this type. But using Tylor expansion is the most po
 [1] Wikipedia - Function (mathematics) [https://en.wikipedia.org/wiki/Function_(mathematics)](https://en.wikipedia.org/wiki/Function_(mathematics))
 
 [2] Wikipedia - Limit (mathematics) [https://en.wikipedia.org/wiki/Limit_(mathematics)](https://en.wikipedia.org/wiki/Limit_(mathematics))
+
+
+<br>
+<br>
+------------------------------------------

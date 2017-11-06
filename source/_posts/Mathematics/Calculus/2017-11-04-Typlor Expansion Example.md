@@ -68,3 +68,8 @@ $$
 
 ## Reference
 [1] [wikipedia-Taylor series](https://en.wikipedia.org/wiki/Taylor_series)
+
+
+<br>
+<br>
+------------------------------------------
