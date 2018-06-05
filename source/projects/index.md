@@ -10,3 +10,5 @@ comments: false
 2. Maze - QLearning[[Demo]](https://youtu.be/dGsdZ1ID9_8)
 
 3. Mountain-Car - QLearning[[Demo]](https://youtu.be/m0FnRzyQ1Dw)
+
+4. Flappy Bird - Deep QLearning[[Demo]](https://youtu.be/2d4QtKOX014) [[Full-Training]](https://youtu.be/IgaaCkskzX4)
