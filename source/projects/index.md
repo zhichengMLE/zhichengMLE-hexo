@@ -17,7 +17,7 @@ comments: false
 
 1. Probability Driven Multiple Object Tracking By Detection [[Demo]](https://motchallenge.net/tracker/TraByDetRT)
     > - realtime (FPS: 21.4, 2.4GHz, 4Core, GeForce 850M)
-    > - online (both detector and tracker)
+    > - online
     > - Test Platform: MOT challenge
 
 2. The Online PDF Reader based on Gesture Movement [[Demo]](https://www.youtube.com/watch?v=IsIhWa0TZrA&feature=youtu.be)
