@@ -29,7 +29,7 @@ I am interested in Natural Language Processing. My ultimate goal is to create a 
 </p>
 
 <p>
-I support open source (@<a href="https://github.com/zhichengML">zhichengML<i class="icon-github"></i>)</a>. The most frequently language is Python and Octave. 
+I support open source (@<a href="https://github.com/zhichengMLE">zhichengMLE<i class="icon-github"></i>)</a>. The most frequently language is Python and C++. 
 I love fitness, tennis and hiking.
 </p>
 
