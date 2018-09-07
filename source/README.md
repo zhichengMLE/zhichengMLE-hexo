@@ -1,6 +1,6 @@
 # My Personal Website
 
-## URL:[https://zhichengmle.github.io/](https://zhichengmle.github.io/)
+## URL:[http://zhichenglab.co/](http://zhichenglab.co/)
 
 ## Usage:
 
@@ -24,6 +24,3 @@ Prerequsite:
 
 
 ## Contact me @Email(jason--ding@outlook.com)
-
-## Folker: [Github URL](URL)
-1. [https://zhichengmle.github.io/](https://zhichengmle.github.io/)
