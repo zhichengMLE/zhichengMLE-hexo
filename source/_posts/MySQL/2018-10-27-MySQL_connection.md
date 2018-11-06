@@ -15,8 +15,9 @@ Solution (MAC OS 10):
 
 Make sure MySQL works correctly.
 
-Ref:https://stackoverflow.com/questions/9624774/after-mysql-install-via-brew-i-get-the-error-the-server-quit-without-updating
-
+Ref:
+- https://stackoverflow.com/questions/9624774/after-mysql-install-via-brew-i-get-the-error-the-server-quit-without-updating
+- https://stackoverflow.com/questions/52372165/mysql-error-1064-42000-you-have-an-error-in-your-sql-syntax
 ```
 brew remove mysql
 brew cleanup
@@ -40,8 +41,8 @@ mysql -u root
 Then run the following in MySQL shell.
 
 ```
-CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
-GRANT ALL PRIVILEGES ON *.* TO 'username'@'localhost' IDENTIFIED BY 'password';
+CREATE USER 'root'@'%' IDENTIFIED BY 'password';
+GRANT ALL PRIVILEGES ON *.* TO 'root'@'%';
 alter user 'USER'@'localhost' identified with mysql_native_password by 'PASSWORD'
 ```
 
