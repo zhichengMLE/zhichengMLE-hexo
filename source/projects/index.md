@@ -22,7 +22,8 @@ comments: false
 
 2. The Online PDF Reader based on Gesture Movement [[Demo]](https://www.youtube.com/watch?v=IsIhWa0TZrA&feature=youtu.be)
 
-3. Background Style Tranferring [[Demo]](http://35.245.30.254:8080/#/)
+3. Background Style Tranfer [[Live Demo]](http://35.245.64.0:8080/) [[Code]](https://github.com/zhichengMLE/region-based-style-transfer-webapp) [[Report]](/source/projects/Background_Style_Tranfer/cv_project_final_report.pdf)
+[[Demo-1]](https://youtu.be/CsgGBcMhyog)[[Demo-2]](https://youtu.be/_wPWeq7wahI)
 
 # Big Data Visualization
 
