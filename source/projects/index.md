@@ -31,4 +31,4 @@ comments: false
 
 # Computer Graphics
 
-1. Kinematics [[Youtube Playlist: including FK, IK, and animations]](https://www.youtube.com/playlist?list=PLVzWodRNf3CGXUYcVarT1mJfh7Xt1gZpG)
+1. Kinematics [[Demo: FK, IK, and animations]](https://www.youtube.com/playlist?list=PLVzWodRNf3CGXUYcVarT1mJfh7Xt1gZpG)
