@@ -28,3 +28,7 @@ comments: false
 # Big Data Visualization
 
 1. relationship-between-commuter-flow-and-criminal-rate-in-Manhattan [[Demo]](http://35.231.39.145:8080)
+
+# Computer Graphics
+
+1. Kinematics [[Youtube Playlist: including FK, IK, and animations]](https://www.youtube.com/playlist?list=PLVzWodRNf3CGXUYcVarT1mJfh7Xt1gZpG)
