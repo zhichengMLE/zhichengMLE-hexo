@@ -1,0 +1,15 @@
+---
+title: Docker Login Failed
+date: 2019-06-06 16:23:19
+categories: [Docker]
+tags: [Docker]
+mathjax: false
+copyright: true
+top: 100
+---
+
+Email is not the docker id. To get your docker id, log into https://www.docker.com/ with email and password and check the id information in user profile
+
+
+Ref:
+- https://github.com/docker/hub-feedback/issues/935
